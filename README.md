@@ -63,6 +63,7 @@ The dataset used is a [publicly available dataset](https://www.kaggle.com/mlg-ul
 
 The following machine learning models were implemented for classification:
 
+- **KNN**
 - **Logistic Regression**
 - **Random Forest Classifier**
 - **Support Vector Machine (SVM)**
