@@ -88,7 +88,3 @@ Each model was trained on the resampled data and evaluated for performance.
 1. Run the Jupyter notebook `fraud_detection.ipynb` to explore the dataset, preprocessing steps, and the models.
 2. You can modify the models or add your own in the notebook.
 3. Visualizations and evaluation metrics for each model will be displayed as output within the notebook.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
